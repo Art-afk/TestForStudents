@@ -1,0 +1,11 @@
+C:\visual studio 2015\exam\exam\Start.Exam\bin\Debug\Start.Exam.exe.config
+C:\visual studio 2015\exam\exam\Start.Exam\bin\Debug\Start.Exam.exe
+C:\visual studio 2015\exam\exam\Start.Exam\bin\Debug\Start.Exam.pdb
+C:\visual studio 2015\exam\exam\Start.Exam\obj\Debug\Start.Exam.csprojResolveAssemblyReference.cache
+C:\visual studio 2015\exam\exam\Start.Exam\obj\Debug\Start.Exam.ConfiguratorForm.resources
+C:\visual studio 2015\exam\exam\Start.Exam\obj\Debug\Start.Exam.Form1.resources
+C:\visual studio 2015\exam\exam\Start.Exam\obj\Debug\Start.Exam.PasswordForm.resources
+C:\visual studio 2015\exam\exam\Start.Exam\obj\Debug\Start.Exam.Properties.Resources.resources
+C:\visual studio 2015\exam\exam\Start.Exam\obj\Debug\Start.Exam.csproj.GenerateResource.Cache
+C:\visual studio 2015\exam\exam\Start.Exam\obj\Debug\Start.Exam.exe
+C:\visual studio 2015\exam\exam\Start.Exam\obj\Debug\Start.Exam.pdb
